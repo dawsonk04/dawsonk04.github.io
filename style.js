@@ -24,4 +24,5 @@ else if (isEvening) {
  
 welcomeDiv.textContent = message;
 
+// Added secret message
 localStorage.setItem("It's a secret to everybody.",'Lebron is better than MJ')
