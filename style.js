@@ -23,3 +23,5 @@ else if (isEvening) {
 
  
 welcomeDiv.textContent = message;
+
+localStorage.setItem("It's a secret to everybody.",'Lebron is better than MJ')
